@@ -20,7 +20,7 @@ public class Formi {
             @Override
             public void actionPerformed(ActionEvent e) {
 
-                button1.setText("Cambiado");
+                button1.setText("Cambiado de nuevo");
             }
         });
         checkBox1.addActionListener(new ActionListener() {
